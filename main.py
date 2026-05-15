@@ -1,1 +1,7 @@
-print("Hello GitHub ")
+import os 
+a=os.listdir(loops)
+print(a)
+
+    
+
+
